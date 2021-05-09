@@ -8,7 +8,7 @@ Feito por : Matheus de Oliveira, Simeone Holanda / UEPB 2021
 1.1- O objetivo da aplicação é receber um dataSet com dados da covid 19 no Brasil, e organizar esses dados
 baseados em Número de mortes, número de casos, e alfabéticamente pelo nome das cidades
 
-1.2 A aplicação gerará os arquivos de saída na pasta raiz onde estão os arquivos do programa, um arquivo diferente
+1.2 A aplicação gerará os arquivos de saída na pasta "results" na pasta base do programa, um arquivo diferente
  para cada caso.
  
  2- Estratégia
@@ -24,5 +24,5 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
     
 
 3.3 É necessário que o dataSet contendo os dados esteja dentro da pasta "src" do programa
-3.4 Execute a aplicação classe chamada "Aplication.java" na pasta programa, Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
+3.4 Execute a aplicação classe chamada "Aplication.java" na pasta "programa" , Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
      indicando o tempo que o método demorou a ser executado, logo depois gerando todos os arquivos de saida na pasta results.
