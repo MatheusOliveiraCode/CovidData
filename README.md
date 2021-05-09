@@ -13,7 +13,7 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
  
  2- Estratégia
  
- 2.1- Para fazer a aplicação foi usado somente java nativo, e uma classe de aplicação chamada "aplication.java" na pasta programa, e classes auxiliares para ordenação chamadas "ordenaçãoLinear.java", "OrdenaçãoElementar.java" , "OrdenaçãoRecusiva.java","GerarCsv.java" na pasta de Entites.
+ 2.1- Para fazer a aplicação foi usado somente java nativo, e uma classe de aplicação chamada "aplication.java" que esta na pasta programa, e classes auxiliares para ordenação chamadas "ordenaçãoLinear.java", "OrdenaçãoElementar.java" , "OrdenaçãoRecusiva.java","GerarCsv.java" na pasta de Entites.
  
  3- Instalação e Execução
  
