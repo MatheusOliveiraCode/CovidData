@@ -13,7 +13,7 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
  
  2- Estratégia
  
- 2.1- Para fazer a aplicação foi usado sómente java nativo, e uma classe de aplicação camada "aplication.java" , e classes auxiliares para ordenação chamadas "ordenaçãoLinear.java", "OrdenaçãoElementar.java" , "OrdenaçãoRecusiva.java"
+ 2.1- Para fazer a aplicação foi usado somente java nativo, e uma classe de aplicação chamada "aplication.java" na pasta programa, e classes auxiliares para ordenação chamadas "ordenaçãoLinear.java", "OrdenaçãoElementar.java" , "OrdenaçãoRecusiva.java","GerarCsv.java" na pasta de Entites.
  
  3- Instalação e Execução
  
@@ -24,5 +24,5 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
     
 
 3.3 É necessário que o dataSet contendo os dados esteja dentro da pasta "src" do programa
-3.4 Execute a aplicação classe chamada "Aplication.java", Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
-     indicando o tempo que o método demorou a ser executado, logo depois gerando todos os arquivos de saida na pasta raiz que o programa está.
+3.4 Execute a aplicação classe chamada "Aplication.java" na pasta programa, Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
+     indicando o tempo que o método demorou a ser executado, logo depois gerando todos os arquivos de saida na pasta results.
