@@ -13,7 +13,7 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
  
  2- Estratégia
  
- 2.1- Para fazer a aplicação foi usado sómente java nativo
+ 2.1- Para fazer a aplicação foi usado sómente java nativo, e uma classe de aplicação camada "aplication.java" , e classes auxiliares para ordenação chamadas "ordenaçãoLinear.java", "OrdenaçãoElementar.java" , "OrdenaçãoRecusiva.java"
  
  3- Instalação e Execução
  
