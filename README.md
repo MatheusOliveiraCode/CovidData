@@ -18,6 +18,7 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
  3- Instalação e Execução
  
  3.1 Para instalar a aplicação basta Instalar o Java JDK para execução dos códigos
+ 
  3.2 Baixe o dataSet neste  [link](https://drive.google.com/file/d/1YEXmlLwzfzaVYY2zAlQvshJsOkhfz0VP/view?usp=sharing)  
     e baixar o arquivo em csv, e colocar o csv baixado na pasta "src", o nome do arquivo DEVE ser obrigatóriamente CovidDataSet.csv 
      
