@@ -20,6 +20,8 @@ baseados em Número de mortes, número de casos, e alfabéticamente pelo nome da
  3.1 Para instalar a aplicação basta Instalar o Java JDK para execução dos códigos
  3.2 Baixe o dataSet neste [Link](https://brasil.io/dataset/covid19/caso_full/?search=&epidemiological_week=&date=&order_for_place=&state=&city=&city_ibge_code=&place_type=&last_available_date=&is_last=True&is_repeated=)
      basta clicar em "baixar resultados em csv" e colocar o csv baixado na pasta "src".
- 5.3 É necessário que o dataSet contendo os dados esteja dentro da pasta "src" do programa
- 6.4 Execute a aplicação classe chamada "Aplication.java", Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
+
+
+3.3 É necessário que o dataSet contendo os dados esteja dentro da pasta "src" do programa
+3.4 Execute a aplicação classe chamada "Aplication.java", Ao executar essa classe, o programa rodará todos os metodos de ordenação automáticamente
      indicando o tempo que o método demorou a ser executado, logo depois gerando todos os arquivos de saida na pasta raiz que o programa está.
